@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Membuat Postingan</description>
+   <name>TC - GoRest - 001 - Created Post</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8df89a70-5d2c-462f-9af0-25ca4eb00632</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9f6c2b83-335d-4a7e-9284-26dda4d4a80d</id>
+      <masked>false</masked>
+      <name>Title</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8d37bffd-7cc3-4d01-bc84-df0b0dee0865</id>
+      <masked>false</masked>
+      <name>Body</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e34e69ef-623b-4d74-b278-de0366f27410</id>
+      <masked>false</masked>
+      <name>UserId</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3893a7e1-c23e-420d-98a7-ea8d1635db3c</id>
+      <masked>false</masked>
+      <name>Token</name>
+   </variable>
+</TestCaseEntity>

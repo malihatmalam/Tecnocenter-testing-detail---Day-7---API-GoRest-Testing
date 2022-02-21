@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Created Post</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>0e66a6a6-d757-489b-ba9b-5a90db7711c0</testSuiteGuid>
+   <testCaseLink>
+      <guid>9e7a2b44-713a-4e57-9e26-c89cb3fa801f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC - GoRest - 001 - Created Post</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>321729a1-aae0-4c9d-b31e-b8dbb25fc084</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data Posting/Data Created Posting</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>321729a1-aae0-4c9d-b31e-b8dbb25fc084</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Title</value>
+         <variableId>9f6c2b83-335d-4a7e-9284-26dda4d4a80d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>321729a1-aae0-4c9d-b31e-b8dbb25fc084</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Body</value>
+         <variableId>8d37bffd-7cc3-4d01-bc84-df0b0dee0865</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>321729a1-aae0-4c9d-b31e-b8dbb25fc084</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>UserId</value>
+         <variableId>e34e69ef-623b-4d74-b278-de0366f27410</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>321729a1-aae0-4c9d-b31e-b8dbb25fc084</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Token</value>
+         <variableId>3893a7e1-c23e-420d-98a7-ea8d1635db3c</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

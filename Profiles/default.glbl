@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>${GlobalVariable.UrlService}</description>
+      <initValue>'https://gorest.co.in'</initValue>
+      <name>UrlService</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>${GlobalVariable.Token}</description>
+      <initValue>'Bearer 37adc7a0c5c2b6dff3e5b7beafa799c1eef4e50dee4bd92b257f55893e5ee289'</initValue>
+      <name>Token</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
